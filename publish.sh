@@ -14,4 +14,4 @@ else
   git push
 fi
 
-echo "Published URL: https://23001036-leo.github.io/x7q9m2-v4k8p1/"
+echo "Published URL: https://23001036-leo.github.io/m9r4t6-z2p8q5/"
